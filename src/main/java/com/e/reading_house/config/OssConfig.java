@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.e.reading_house.demos.oss;
+package com.e.reading_house.config;
 
 import com.aliyun.oss.OSS;
 
