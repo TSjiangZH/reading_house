@@ -1,0 +1,24 @@
+.image-container{
+    background: url(https://s1.imagehub.cc/images/2024/01/08/ca2a1963418ae9dcc4e1ba43f893983b.md.jpeg) no-repeat;
+    background-size: cover;
+}
+.box{
+    text-align: center;
+    margin-top:20vh;
+
+}
+.login-container{
+    width: 420px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow:  34px 34px 67px #bebebe,
+    -34px -34px 67px #ffffff;
+}
+
+.login-button{
+    -webkit-box-shadow:0px 0px 144px 68px rgba(135,194,176,0.9);
+    -moz-box-shadow: 0px 0px 144px 68px rgba(135,194,176,0.9);
+    box-shadow: 0px 0px 144px 68px rgba(135,194,176,0.9);
+}

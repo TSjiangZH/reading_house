@@ -133,7 +133,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.e.reading_house.ReadingHouseApplication</mainClass>
+                    <mainClass>com.reading_house.ReadingHouseApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>

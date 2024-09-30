@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.e.reading_house.config;
+package com.reading_house.config;
 
 import com.aliyun.oss.OSS;
 
@@ -23,11 +23,7 @@ import org.springframework.boot.ApplicationRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * OSS common config.
- *
- * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
- */
+
 @Configuration
 public class OssConfig {
 
